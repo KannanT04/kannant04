@@ -6,7 +6,7 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 
 • 🔭 I’m currently upskilling myself and looking for opportunities as Data Scientist/ ML Engineer.
 
-• 📫 How to reach me: LinkedIn
+• 📫 How to reach me: https://www.linkedin.com/in/kannan-t-analyst
 
 • ⚡ Visit my PortFolio Website
 

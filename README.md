@@ -13,8 +13,8 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 • 🐍 Check my HackerRank Profile
 
 ### My Tech stack includes:-
-| Programming Language:Python
-| :-----------------------------------
-| Data Analysis:Pandas
-| Machine Learning:Numpy,Scikit-Learn
+| Programming Language:Python           |Data Visualization: Matplotlib, Seaborn
+| :-----------------------------------  |:---------------------------------------
+| Data Analysis:Pandas.                 |Database:MySQL
+| Machine Learning:Numpy, Scikit-Learn  |Office Tools:Excel, PowerPoint, Word
 

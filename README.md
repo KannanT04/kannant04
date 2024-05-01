@@ -18,3 +18,6 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 | Data Analysis:Pandas.                 |Database:MySQL
 | Machine Learning:Numpy, Scikit-Learn  |Office Tools:Excel, PowerPoint, Word
 
+
+## My GitHub Stats
+[![Kannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KannanT04)](https://github.com/KannanT04/github-readme-stats)

@@ -11,3 +11,5 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 • ⚡ Visit my PortFolio Website
 
 • 🐍 Check my HackerRank Profile
+
+### My Tech stack includes:-

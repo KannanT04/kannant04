@@ -14,8 +14,8 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 
 ### My Tech stack includes:-
 | Programming Language:Python
-| :---------------------------
+| :-----------------------------------
 | Data Analysis:Pandas
-| :---------------------------
+| :-----------------------------------
 | Machine Learning:Numpy,Scikit-Learn
 

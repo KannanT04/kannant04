@@ -20,4 +20,4 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 
 
 ## My GitHub Stats
-[![Kannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KannanT04)](https://github.com/KannanT04/github-readme-stats)
+[![Kannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KannanT04&show_icons=true)](https://github.com/KannanT04/github-readme-stats&show_icons=true)

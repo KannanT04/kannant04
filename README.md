@@ -13,3 +13,9 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 • 🐍 Check my HackerRank Profile
 
 ### My Tech stack includes:-
+
+Programming Language: Python	Data Visualization: Matplotlib, Seaborn
+Data Analysis: Pandas, Power-BI	Database: MySQL
+Machine Learning: Numpy, Scikit-Learn	Cloud: AWS (EC2 & Sagemaker)
+Deep Learning: TensorFlow	Office Tools: Excel, PowerPoint
+Web Framework: Fast-API, StreamLit	MLOPs: Mlflow, DVC, CI-CD (GitHub Actions)

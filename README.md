@@ -8,8 +8,6 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 
 • 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kannan-t-analyst)
 
-• ⚡ Visit my PortFolio Website
-
 • 🐍 Check my [HackerRank Profile](https://www.hackerrank.com/profile/kannan04t)
 
 ### My Tech stack includes:-
@@ -19,10 +17,6 @@ I am a dedicated Data Scientist seeking to apply advanced analytical and machine
 | Data Analysis:**Pandas**                  |Database:**MySQL**                           |
 | Machine Learning:**Numpy, Scikit-Learn**  |Office Tools:**Excel, PowerPoint, Word**     |    
 
-### Explore My Projects
-|    S.No         |    Domain       |   No.  |
-|-----------------|-----------------|--------|
-|01               |Data Analysis    |01      |
 
 ## My GitHub Stats
 [![Kannan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KannanT04&show_icons=true)](https://github.com/KannanT04/github-readme-stats&show_icons=true)
